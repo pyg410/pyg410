@@ -19,5 +19,3 @@
 <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyg410&show_icons=true&theme=radical)
